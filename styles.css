@@ -23,3 +23,12 @@ img {
   .container {
     padding: 2px 16px;
   }
+
+  h1 {
+      display: flex;
+      justify-content: center;
+  }
+
+  figure {
+      display: flex;
+  }
